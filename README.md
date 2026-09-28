@@ -1,21 +1,15 @@
-# 🌐 ASCENDA IT — Réseaux TCP/IP, Python & Administration BDD (Palier 2 & 3)
+# 🌐 ASCENDA IT — Enterprise Networking & Database Administration
 
-![Networking](https://img.shields.io/badge/Network-CCNA%20Level-blue?style=flat&logo=cisco)
-![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat&logo=python)
+![Networking](https://img.shields.io/badge/Network-TCP%2FIP%20Architecture-blue?style=flat&logo=cisco)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat&logo=postgresql)
 
-Bienvenue dans mon laboratoire pour le **Palier 2 & 3 du programme ASCENDA IT**.
+Ce dépôt héberge l'**architecture réseau d'entreprise, les outils d'automatisation Python et le système de gestion de bases de données** d'ASCENDA IT.
 
 ---
 
-## 🗂️ Structure Prévue
+## 🗂️ Modules & Architecture
 
-- `00-reseaux-tcpip/` : Captures Wireshark, sous-réseaux CIDR, routage BGP/OSPF, VPN WireGuard.
-- `01-python-automation/` : Scripts Python d'automatisation et outils CLI.
-- `02-database-administration/` : Modélisation SQL, administration PostgreSQL, requêtes complexes.
-
----
-
-## 🎯 Certifications & Compétences Visées
-- **Network+ / CCNA Level** : Routage, commutation, analyse de paquets.
-- **Python Developer / DB Admin** : Automation & Administration SQL.
+- `00-reseaux-tcpip/` : Analyse de paquets, routage dynamique, VPN WireGuard et topologies.
+- `01-python-automation/` : Outillage CLI et scripts d'automatisation d'infrastructure Python.
+- `02-database-administration/` : Modélisation SQL, haute disponibilité et administration PostgreSQL.
